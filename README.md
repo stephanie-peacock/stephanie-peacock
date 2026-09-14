@@ -2,16 +2,16 @@
 
 ## Business Analytics Portfolio
 
-MS Business Analytics student with experience in business intelligence, data analysis, AI applications, and business strategy.
+MS Business Analytics student with experience in business intelligence, data analysis, AI applications, and business operations.
 
 ### Featured Projects
 
-#### Colorado Hospital Performance Analysis
+### Colorado Hospital Performance Analysis
 **Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics**
 
-Analysis of Colorado hospital performance using public data on patient outcomes, staffing, and relative procedure costs.
+Analysis of publicly available Colorado hospital data to compare patient outcomes, staffing, and relative procedure costs.
 
-*Project details coming soon.*
+[View Project](https://github.com/stephanie-peacock/colorado-hospital-performance)
 
 ---
 
