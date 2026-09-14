@@ -1,8 +1,7 @@
 # Stephanie Peacock
+MS Business Analytics student and Business professional with experience in business intelligence, data analysis, AI applications, and business operations. Featured projects demonstrate practical applications of analytics and AI for business decision-making.
 
 ## Business Analytics Portfolio
-
-MS Business Analytics student with experience in business intelligence, data analysis, AI applications, and business operations.
 
 <h3>Colorado Hospital Performance Analysis</h3>
 
