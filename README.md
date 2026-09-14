@@ -8,8 +8,6 @@ MS Business Analytics student with experience in business intelligence, data ana
 
 <h3>Colorado Hospital Performance Analysis</h3>
 
-<p><strong>Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics</strong></p>
-
 <table>
   <tr>
     <td width="45%">
