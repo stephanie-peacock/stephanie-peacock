@@ -17,6 +17,9 @@ MS Business Analytics student with experience in business intelligence, data ana
     </td>
     <td width="55%">
       <p>
+        <strong>Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics</strong>
+      </p>
+      <p>
         Analysis of publicly available Colorado hospital data to compare
         patient outcomes, staffing, and relative procedure costs.
       </p>
