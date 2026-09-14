@@ -4,8 +4,6 @@
 
 MS Business Analytics student with experience in business intelligence, data analysis, AI applications, and business operations.
 
-### Featured Projects
-
 <h3>Colorado Hospital Performance Analysis</h3>
 
 <table>
