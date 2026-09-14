@@ -6,12 +6,28 @@ MS Business Analytics student with experience in business intelligence, data ana
 
 ### Featured Projects
 
-### Colorado Hospital Performance Analysis
-**Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics**
+<h3>Colorado Hospital Performance Analysis</h3>
 
-Analysis of publicly available Colorado hospital data to compare patient outcomes, staffing, and relative procedure costs.
+<p><strong>Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics</strong></p>
 
-[View Project](https://github.com/stephanie-peacock/colorado-hospital-performance)
+<table>
+  <tr>
+    <td width="45%">
+      <img src="COHospPerformance.png" width="350" alt="Colorado Hospital Performance Dashboard">
+    </td>
+    <td width="55%">
+      <p>
+        Analysis of publicly available Colorado hospital data to compare
+        patient outcomes, staffing, and relative procedure costs.
+      </p>
+      <p>
+        <a href="https://github.com/stephanie-peacock/colorado-hospital-performance">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
