@@ -12,7 +12,7 @@ MS Business Analytics student and Business professional with experience in busin
     </td>
     <td width="55%">
       <p>
-        <strong>Power BI | Power Query | DAX | Data Modeling | Healthcare Analytics</strong>
+        <strong>Power BI | ETL | Data Modeling | Healthcare Analytics</strong>
       </p>
       <p>
         Analysis of publicly available Colorado hospital data to compare
