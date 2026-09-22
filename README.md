@@ -55,6 +55,8 @@ MS Business Analytics student and Business professional with experience in busin
   </tr>
 </table>
 
+---
+
 <h3>Insurance Market Strategy Analysis</h3>
 
 <table>
