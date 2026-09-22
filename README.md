@@ -55,12 +55,12 @@ MS Business Analytics student and Business professional with experience in busin
   </tr>
 </table>
 
----
 <h3>Insurance Market Strategy Analysis</h3>
 
 <table>
   <tr>
     <td width="55%">
+      <br>
       <p>
         <strong>R | Regression | Predictive Analytics | Forecasting | Business Strategy</strong>
       </p>
@@ -78,11 +78,11 @@ MS Business Analytics student and Business professional with experience in busin
       </p>
     </td>
     <td width="45%">
+      <br>
       <img src="Forcast.png" width="350" alt="Insurance Market Sales Forecast">
     </td>
   </tr>
 </table>
----
 
 #### Stock & Text Analytics Tracker
 **Power BI | Financial Analytics | Text Analytics**
