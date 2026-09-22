@@ -62,6 +62,7 @@ MS Business Analytics student and Business professional with experience in busin
 <table>
   <tr>
     <td width="55%">
+      <br>
       <p>
         <strong>R | Regression | Predictive Analytics | Forecasting | Business Strategy</strong>
       </p>
