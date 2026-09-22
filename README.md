@@ -50,7 +50,7 @@ MS Business Analytics student and Business professional with experience in busin
       </p>
     </td>
     <td width="45%">
-      <img src="AcademicAdvising.png" width="350" alt="Academic Advising AI Assistant">
+      <img src="AIAdvisingCopilot.png" width="350" alt="Academic Advising AI Assistant">
     </td>
   </tr>
 </table>
