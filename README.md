@@ -7,9 +7,6 @@ MS Business Analytics student and Business professional with experience in busin
 
 <table>
   <tr>
-    <td width="45%">
-      <img src="COHospPerformance.png" width="350" alt="Colorado Hospital Performance Dashboard">
-    </td>
     <td width="55%">
       <p>
         <strong>Power BI | ETL | Data Modeling | Healthcare Analytics</strong>
@@ -23,6 +20,9 @@ MS Business Analytics student and Business professional with experience in busin
           <strong>View Project →</strong>
         </a>
       </p>
+    </td>
+    <td width="45%">
+      <img src="COHospPerformance.png" width="350" alt="Colorado Hospital Performance Dashboard">
     </td>
   </tr>
 </table>
