@@ -29,12 +29,31 @@ MS Business Analytics student and Business professional with experience in busin
 
 ---
 
-#### Academic Advising Assistant
-**Python | SQL | RAG | LLM | Streamlit**
+<h3>Academic Advising AI Assistant</h3>
 
-AI-assisted academic advising application using course, degree, and program requirement data to help students explore academic options.
-
-*GitHub repository link coming soon.*
+<table>
+  <tr>
+    <td width="55%">
+      <p>
+        <strong>Python | SQL | AI Agents | LLM | Streamlit</strong>
+      </p>
+      <p>
+        AI-powered academic advising application that uses natural-language
+        questions to retrieve and present academic information. The application
+        uses specialized AI agents to interpret requests, query structured data,
+        and generate clearly formatted responses.
+      </p>
+      <p>
+        <a href="https://github.com/stephanie-peacock/academic-advising-ai-copilot">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="45%">
+      <img src="AcademicAdvising.png" width="350" alt="Academic Advising AI Assistant">
+    </td>
+  </tr>
+</table>
 
 ---
 
