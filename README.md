@@ -88,9 +88,3 @@ MS Business Analytics student and Business professional with experience in busin
 
 ---
 
-#### Stock & Text Analytics Tracker
-**Power BI | Financial Analytics | Text Analytics**
-
-Power BI project combining stock-market data with text analytics.
-
-*In development.*
