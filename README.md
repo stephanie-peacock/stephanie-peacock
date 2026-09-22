@@ -29,7 +29,7 @@ MS Business Analytics student and Business professional with experience in busin
 
 ---
 
-<h3>Academic Advising AI Assistant</h3>
+<h3>AI Academic Advising Assistant</h3>
 
 <table>
   <tr>
